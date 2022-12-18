@@ -5,10 +5,11 @@
 
   'recordatorios' : {
     0 : '¿Ya tomaste agua? Después te duele la cabeza
-     y te quejás, flaca',
+     y te quejás',
     1 : '¿Qué onda el H20?',
     2 : 'El mate no cuenta como agua',
     3 : 'Ni hace falta que te lo diga',
-    4: 'Pasó un cactus y te dijo para hermana, hidratate'
+    4: 'Pasó un cactus y te dijo pará hermana, hidratate',
+    5: 'Hermosa mañana para hidratarse, no?'
   }
 }
