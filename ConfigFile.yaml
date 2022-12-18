@@ -1,5 +1,5 @@
 {'parameters' : {
-  'chatId' : '@Aca va el nombre de tu chat',
+  'chatId' : '@Aca va el link de tu chat',
   'apiUrl' : 'https://api.telegram.org/bot',
   'token' : 'Aca va el token que te dio BotFather'},
 
