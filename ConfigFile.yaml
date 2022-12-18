@@ -1,0 +1,14 @@
+{'parameters' : {
+  'chatId' : '@Aca va el nombre de tu chat',
+  'apiUrl' : 'https://api.telegram.org/bot',
+  'token' : 'Aca va el token que te dio BotFather'},
+
+  'recordatorios' : {
+    0 : '¿Ya tomaste agua? Después te duele la cabeza
+     y te quejás, flaca',
+    1 : '¿Qué onda el H20?',
+    2 : 'El mate no cuenta como agua',
+    3 : 'Ni hace falta que te lo diga',
+    4: 'Pasó un cactus y te dijo para hermana, hidratate'
+  }
+}
