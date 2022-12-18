@@ -1,5 +1,5 @@
 # TelegramBot
-Es un Bot que manda mensajes a un grupo de Telegram
+Es un Bot que manda mensajes a un canal de Telegram
 
 ###ANTES QUE NADA###
 1) Creá un canal en Telegram, dejalo público.
