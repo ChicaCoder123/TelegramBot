@@ -35,8 +35,13 @@ Es un Bot que manda mensajes a un canal de Telegram
 ![image](https://user-images.githubusercontent.com/91013797/208272443-4e464b0e-0ae5-458b-8acd-347959796d8c.png)
 
 ***Importante***
+
 Reemplazar en el archivo ConfigFile:
+
+
 -> El id del canal que creaste.
+
+
 -> El token que se generó para tu bot.
 
 
