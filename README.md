@@ -2,7 +2,7 @@
 Es un Bot que manda mensajes a un canal de Telegram
 
 ###ANTES QUE NADA###
-1) Creá un canal en Telegram, dejalo público.
+1) Creá un canal en Telegram, dejalo público. ***El link que escribas va a ser el id del canal.***
 
 
 ![image](https://user-images.githubusercontent.com/91013797/208272218-fe6daaf3-7c42-4f67-880b-62054d4974ba.png)
